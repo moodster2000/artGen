@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4635",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4635).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Garo R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Sam R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Banaleaf R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Octopus R3"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Rice R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Almond R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R5"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Pear"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

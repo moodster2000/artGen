@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #974",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(974).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Trench C-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Saiya R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Banaleaf R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Mint R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Oh R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Terminator R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Piercing R1"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

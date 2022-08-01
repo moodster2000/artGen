@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1279",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1279).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER VeeCut R6"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Fleece R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Wow R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Love R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Yummy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

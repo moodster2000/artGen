@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Necklace M"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Khaen R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Smiley R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Chopstk R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL SkyDive R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cheeky R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Pear"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

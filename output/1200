@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1200",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1200).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Cowboy"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Nonla R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Love R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Ricegan H-R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Yummy R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

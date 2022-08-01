@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2211",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2211).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket P-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Mastodon R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Electro R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Wink R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

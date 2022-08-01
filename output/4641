@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4641",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4641).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Obi R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Jiangshi R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Shrimp R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Ctrl R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Scar R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling S-R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

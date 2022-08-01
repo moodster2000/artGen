@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1798",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1798).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "EXT Gao RABW"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Tanghulu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Dzo R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle W-R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Space"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Tomato"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

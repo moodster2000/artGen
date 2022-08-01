@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7219",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7219).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R10"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Racer R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Kim R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Pipe R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Woh R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Dart R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Terminator R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Shark F-R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

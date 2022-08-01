@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6213",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6213).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R15"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Cargo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Irl R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Gummy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

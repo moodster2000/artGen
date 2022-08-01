@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #8230",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(8230).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Suprice R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Titan GOLD"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Banana R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Clover SILV"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Nobi R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling S-R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 2"
+    }
+  ]
+}

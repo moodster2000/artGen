@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3647",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3647).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Jacket R4"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Buffalo R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Gg R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Floor R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Lufi R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Space"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Fire"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

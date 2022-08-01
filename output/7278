@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7278",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7278).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket R5"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Sam R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Shrimp R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Dizzy R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Sulk"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

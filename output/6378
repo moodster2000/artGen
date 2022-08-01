@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6378",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6378).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Fleece R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Mastodon R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Lufi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Chung C-SILV"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Eth R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Terminator R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Chuppy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

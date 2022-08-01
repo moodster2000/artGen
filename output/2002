@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2002",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2002).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket R5"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lufi R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Chilli R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Ninja R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

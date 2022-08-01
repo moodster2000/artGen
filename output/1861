@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1861",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1861).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R10"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Titan R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Meat R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Klub R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Vampire R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

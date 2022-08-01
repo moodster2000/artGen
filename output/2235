@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2235",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2235).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R13"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Ricesuki R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Ninja R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Shrimp R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Dart R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Pain R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Inhale R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

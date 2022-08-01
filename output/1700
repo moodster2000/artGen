@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1700",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1700).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R14"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Mahjong R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Jiangshi R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Pipe R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Plaster R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Ahh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Funny R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Kitty R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

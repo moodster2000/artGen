@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6607",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6607).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R10"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Puffer R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Pony R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Zabu"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Robot R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Dart R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Rockstar"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

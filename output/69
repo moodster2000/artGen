@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #69",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(69).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R15"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Puffer L-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "EXT Gao RABW"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Tanghulu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Bomb R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Heart R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Giddy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Chuppy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 2"
+    }
+  ]
+}

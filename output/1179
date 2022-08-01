@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1179",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1179).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Garo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Spirit"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Onigiri R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Haiya"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Wink R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Inhale R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Tomato"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

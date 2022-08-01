@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7462",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7462).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Cargo R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ninja R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Ahh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Terminator R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

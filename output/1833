@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1833",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1833).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R14"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket P-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Beanie R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ghost R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Onigiri R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Rice GOLD"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Scar R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Mask R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

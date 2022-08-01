@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1111",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1111).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R15"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Tie R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ruyi"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gm R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Icepop R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Chuppy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

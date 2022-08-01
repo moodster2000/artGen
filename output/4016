@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4016",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4016).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Tie R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Yoyo R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Cool R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Rice R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Inhale R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #990",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(990).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R10"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Meow R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Banaleaf R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Hot GOLD"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Knife R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Funny R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

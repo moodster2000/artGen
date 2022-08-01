@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4928",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4928).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R18"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Flamingo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Gao R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Kasa-bake R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Electro R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Berry R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Sulk"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

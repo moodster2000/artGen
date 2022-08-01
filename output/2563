@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2563",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2563).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R15"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Caro R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Sam R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Electro R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Shade R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Gangster"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

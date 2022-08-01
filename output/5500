@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #5500",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(5500).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Trench C-R4"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Meow R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Chill R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Haiya"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Lee R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Fire"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

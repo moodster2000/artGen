@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #724",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(724).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Norice R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Tiger R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ghost R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Onigiri R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Icepop R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Shade R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Shark S-R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

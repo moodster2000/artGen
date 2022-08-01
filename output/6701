@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #6701",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6701).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R5"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Beanie R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Riceball R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Octopus R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Shiba SILV"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Wink R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R3"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

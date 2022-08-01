@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2461",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2461).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY VeeCut R12"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Caro R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Buffalo R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Gao R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Mint R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Fuyoh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Cyclopes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Drooling R5"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

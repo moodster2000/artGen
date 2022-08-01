@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #98",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(98).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Lan R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Trench C-R4"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Sensu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lolipop R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Scar R4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Mumie R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "UMAMI Sakura R1"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 2"
+    }
+  ]
+}

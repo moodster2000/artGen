@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2011",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2011).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Uncle R"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Buffalo R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Khaen R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Onigiri R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Links R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Shock"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Yummy R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

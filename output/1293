@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #1293",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1293).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Pipe R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gm R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Cyclopes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

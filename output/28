@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #28",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(28).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Cargo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Yangchi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lotus R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Links R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Meta R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Grillz R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Chilli"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #511",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(511).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER VeeCut R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R5"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Cards R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Wow R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Klub R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL SkyDive R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Sweat"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Melon"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

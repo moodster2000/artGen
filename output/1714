@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1714",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1714).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Toto R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Noodles R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Woh R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Ctrl R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Ricegan F-R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

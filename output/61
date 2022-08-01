@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #61",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(61).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Godzill R5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Trench C-R5"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Kim R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Sycee RABW"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Fish SILV"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Lit SILV"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Kitty R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Sulk"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "UMAMI Bamboo"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 5"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #115",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(115).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pot R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Naruta R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R4"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

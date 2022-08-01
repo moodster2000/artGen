@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1958",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1958).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo E-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Gourd R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Shrimp R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Rg R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Dignified R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Inhale R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Chilli"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

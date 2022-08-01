@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #5733",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(5733).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R6"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Puffer L-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ninja R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Melon"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #176",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(176).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R6"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Trench C-R6"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Cards R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Nonla R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Ctrl R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Ricegan H-R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

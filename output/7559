@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7559",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7559).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Mighty"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Sam R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Chicken R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Fried R-R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Globe R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Droopy R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Gummy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #8386",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(8386).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Square R16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket P-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Suprice R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Kendama R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Electro R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Dart R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Vampire R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cutie T-R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1806",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1806).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Vest R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Tiger R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Smiley R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Fire R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Hearty"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Vampire R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

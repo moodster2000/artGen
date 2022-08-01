@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2043",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2043).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R6"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Kim R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Kasa-bake R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Lipstk R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Egg R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

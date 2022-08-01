@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #528",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(528).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Square R16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Vest R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Lufi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Chill R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

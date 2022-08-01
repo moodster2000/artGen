@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3190",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3190).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R12"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Puffer L-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Meow R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ghost R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Fish R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Heart R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

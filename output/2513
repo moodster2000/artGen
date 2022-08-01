@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2513",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2513).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Eva R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Chariza R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Octopus R3"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Funny R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Awkward"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

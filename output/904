@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #904",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(904).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket P-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Suprice R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pineapp"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL SavePNG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Awkward"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

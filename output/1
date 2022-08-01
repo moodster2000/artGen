@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Piercing R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Chain"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Pipe R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Plaster R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Rice H-RABW"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Shade R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Shark F-R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 2"
+    }
+  ]
+}

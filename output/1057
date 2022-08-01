@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1057",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1057).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Vest R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Boba R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Boba R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Heart R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Wink R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Drooling R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

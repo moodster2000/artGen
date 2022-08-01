@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2227",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2227).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Polo B-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Ricemoto R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Milk R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Lit R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Norice R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Vampire R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

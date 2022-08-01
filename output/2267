@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2267",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2267).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Fleece R4"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Sam R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Bamboo R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Wow R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Fire R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Scar R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Piercing R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

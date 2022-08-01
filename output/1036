@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1036",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1036).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R15"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Fleece R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Bomb R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Nani"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Meh B"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

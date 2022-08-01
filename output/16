@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #16",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(16).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Scarf R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Beanie R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT YinYg RABW"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Grain G-RABW"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Oval R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Plaster"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 2"
+    }
+  ]
+}

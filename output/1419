@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1419",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1419).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R8"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Pony R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ghost R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Cool R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Clover R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Almond R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Noodles"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

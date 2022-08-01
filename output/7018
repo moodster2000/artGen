@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7018",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7018).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R8"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Cargo R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Lute R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lishi"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Rice GOLD"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Shade R4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Grillz R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

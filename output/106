@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #106",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(106).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Drama R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Mighty G"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Mastodon R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Yangchi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Robot GOLD"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Knife GOLD"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Lazer R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Bento R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 7"
+    }
+  ]
+}

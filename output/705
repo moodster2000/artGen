@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #705",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(705).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R17"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET ZipUp"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Riceball R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gm R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Blink R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle W-R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Mole R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #249",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(249).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Mighty"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Boba R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Bomb R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Rice H-R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Terminator R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Space"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Flash"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

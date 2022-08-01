@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7176",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7176).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER VeeCut R8"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Eva R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Beanie R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Sakura R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Dzo R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Nobi R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Mask R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

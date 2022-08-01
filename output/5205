@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #5205",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(5205).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Fleece R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Beanie R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Hotpot"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Klub R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Yummy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2900",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2900).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Mighty"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Chicken R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Robot R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Oh R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Kitty R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Awkward"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

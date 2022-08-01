@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #3869",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3869).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Lee R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Nunchaku R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Mint R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Starry R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Naughty"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

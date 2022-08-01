@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1156",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1156).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER VeeCut R16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Garo R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Beanie R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Noodles R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Spoon R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Floor R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Funny R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Lee R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

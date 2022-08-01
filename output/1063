@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1063",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1063).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Fleece R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Noodles R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Cool R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Chopstk R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Ninja R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Pear"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

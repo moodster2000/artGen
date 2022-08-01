@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7910",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7910).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Cargo R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Kim R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Cards R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Ramen SILV"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Piercing R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

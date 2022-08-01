@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1432",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1432).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Machina R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Spoon R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Floor R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Ricegan H-R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cutie U"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

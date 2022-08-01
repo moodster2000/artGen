@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1963",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1963).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Kim R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Pipe R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Tomato R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Fam R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Hearty"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Mole R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

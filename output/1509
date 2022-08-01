@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1509",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1509).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Barbour R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ninja R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Links R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Saiya R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Gummy R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

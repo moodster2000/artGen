@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1720",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1720).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R10"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Barbour R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Tanghulu R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pot R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Naruta R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Sulk"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

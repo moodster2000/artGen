@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1004",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1004).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R12"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Obi R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Sycee SILV"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Tea"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Almond R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

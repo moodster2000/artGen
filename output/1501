@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1501",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1501).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Cargo R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Tiger R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Octopus R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Bao R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Sparkle B-R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

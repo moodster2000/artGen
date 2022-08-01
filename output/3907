@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3907",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3907).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Gourd R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pear R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Haiya"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1985",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1985).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R12"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Beanie R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Ninja R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Smiley R3"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Berry R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Inky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cutie V"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

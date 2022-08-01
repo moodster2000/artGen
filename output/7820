@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7820",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7820).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R12"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo E-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Pony R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gm R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Floor SILV"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

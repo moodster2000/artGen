@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2418",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2418).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R20"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ghost R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Octopus R3"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Geisha R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

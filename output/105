@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #105",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(105).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Drama R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Eva R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "EXT Jiangshi RABW"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Hangrong GOLD"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Hot GOLD"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Rice GOLD"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Lazer R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Drooling R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 8"
+    }
+  ]
+}

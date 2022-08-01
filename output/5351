@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #5351",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(5351).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R14"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R4"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Kasa-bake R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Heart R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling R4"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

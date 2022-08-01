@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #161",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(161).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Jacket R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Beanie R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Onigiri R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Avocado R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

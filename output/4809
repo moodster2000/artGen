@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4809",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4809).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Jiangshi R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Boba R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Love R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Shark S-R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

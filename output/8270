@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #8270",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(8270).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Caro R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Foxe R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Sensu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Mint R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Berry R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Wink R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cheeky R3"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

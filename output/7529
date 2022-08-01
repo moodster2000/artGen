@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7529",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7529).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Racer R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Star R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Tea"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Cooker R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Shock"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Mole R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6210",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6210).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R11"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Garo R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Octopus R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL SavePNG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Nobi R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Mole R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

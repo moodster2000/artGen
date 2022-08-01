@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2000",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2000).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R15"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Barbour R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Flory R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Gourd R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Lolipop R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Almond R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Piercing R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

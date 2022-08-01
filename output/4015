@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4015",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4015).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R6"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Trench C-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Monochord R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Bomb R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Gourd R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Inky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Mumie R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

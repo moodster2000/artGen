@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1235",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1235).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Jiangshi R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Bamboo R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Baguett"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Egg R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Almond R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Ninja R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

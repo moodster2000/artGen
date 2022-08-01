@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4975",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4975).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R11"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Obi R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Electro R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Knife R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

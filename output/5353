@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #5353",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(5353).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Riceball R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Bomb R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Lit R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Spidey"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

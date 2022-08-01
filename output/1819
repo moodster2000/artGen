@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1819",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1819).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Fleece R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Boba R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pear R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Msg R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Dignified R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

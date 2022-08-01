@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #430",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(430).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY VeeCut R13"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Polo B-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Ricemoto R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Chill R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Egg R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Funny R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

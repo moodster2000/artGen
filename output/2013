@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2013",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2013).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R15"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Hoodie"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Beanie R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Chung C-SILV"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Lit R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Naughty"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

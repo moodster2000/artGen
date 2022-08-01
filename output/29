@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #29",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(29).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Mahjong R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Flory R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ghost R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lishi"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Rg R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Inky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Spidey"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

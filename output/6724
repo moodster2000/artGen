@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6724",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6724).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Uncle R"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Beanie R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Gao R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Chill R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Avocado R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Vampire R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Inhale R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Chilli"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

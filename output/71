@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #71",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(71).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Scarf R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Buffalo R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Electro R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Berry R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Oval R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Kitty R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 2"
+    }
+  ]
+}

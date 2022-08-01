@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #808",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(808).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Plaster R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Irl R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Droopy R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Lee R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

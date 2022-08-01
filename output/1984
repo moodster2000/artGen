@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1984",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1984).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Toto R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Meow R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Sushi"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Nunchaku R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

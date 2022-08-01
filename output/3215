@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3215",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3215).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket R5"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Pony R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Pipe R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Shrimp R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Dart R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Bloodshot R6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

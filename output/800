@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #800",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(800).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R8"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Puffer L-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Tiger R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Rainbow R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Nunchaku R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Nobi R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Pocky R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

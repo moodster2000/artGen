@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2295",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2295).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R8"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Puffer R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Mastodon R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Abacus R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Plaster R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Msg R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Piercing R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

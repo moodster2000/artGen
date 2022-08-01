@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #89",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(89).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Fleece R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Saiya R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Pinwheel R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Banana R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Icepop R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Shock"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Gummy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

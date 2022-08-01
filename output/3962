@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3962",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3962).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Square R16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Garo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ghost R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Boba R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Heart R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Funny R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

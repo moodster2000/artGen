@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1988",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1988).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Vest R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Khaen R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pineapp"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Scar R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Gas M-R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

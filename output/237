@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #237",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(237).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Cargo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Saiya R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Kasa-bake R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Octopus R3"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Chopstk R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Pain R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

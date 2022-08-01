@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4417",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4417).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Lee R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Titan GOLD"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Smiley R3"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Chilli R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Nobi R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Sulk"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Flash"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

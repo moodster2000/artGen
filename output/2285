@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #2285",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2285).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Jacket R4"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Meow R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Chicken R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Lipstk R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Love R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Kitty R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling S-R2"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

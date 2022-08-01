@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7902",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7902).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Vest R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Kim R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Spoon R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Rimon R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Ricegan H-R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling S-R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Pear"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

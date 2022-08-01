@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1429",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1429).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY VeeCut R12"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Scarf R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Sam R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Chariza R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Sakura R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Rice R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Sweat"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

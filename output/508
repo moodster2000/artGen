@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #508",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(508).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Meow R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Maneki R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Robot R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Rice H-R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Scar R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Godzill R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

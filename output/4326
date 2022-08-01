@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4326",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4326).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY VeeCut R12"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET ZipUp"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Heart R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

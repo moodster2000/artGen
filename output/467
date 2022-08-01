@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #467",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(467).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R13"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Hoodie"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Gourd R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Wow R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Msg R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

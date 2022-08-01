@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6001",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6001).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER VeeCut R10"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Barbour R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Smiley R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Boom"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle G-R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

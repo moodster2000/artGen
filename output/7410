@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #7410",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7410).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Suprice R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lufi R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Boom"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Dignified R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cutie U"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

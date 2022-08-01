@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #36",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(36).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R12"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Flag R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Meat R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Ctrl R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Wink R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Flute"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #903",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(903).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Fleece R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Maneki R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Onigiri R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Klub R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Inhale R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

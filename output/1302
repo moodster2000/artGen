@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1302",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1302).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R20"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET ZipUp"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Buffalo R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Lufi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Links R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Nobi R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Mole R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

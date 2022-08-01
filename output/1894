@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1894",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1894).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R6"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo L-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Nunchaku R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pear R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Globe R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Meh B"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

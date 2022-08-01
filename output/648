@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #648",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(648).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Saiya R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Jiangshi R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Gourd R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Plaster R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Egg R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL EyePatch R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cheeky R2"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

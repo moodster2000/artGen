@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4251",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4251).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R8"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Scarf R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Suprice R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Cards R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Spoon R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Eth R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

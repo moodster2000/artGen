@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7362",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7362).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Racer R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Monochord R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pear R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Wink R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Sweat"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

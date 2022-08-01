@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2436",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2436).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Caro R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Sam R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Sensu R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pear R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Console R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Bloodshot R6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling S-R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

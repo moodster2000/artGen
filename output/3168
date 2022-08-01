@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3168",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3168).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R20"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Racer R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Ninja R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Pot SILV"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Avocado R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling S-R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

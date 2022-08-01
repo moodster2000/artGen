@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3511",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3511).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Jacket R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Gao R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Riceball R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Robot R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Floor R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Dignified R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cutie T-R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Tomato"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

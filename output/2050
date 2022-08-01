@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2050",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2050).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R12"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Trench C-R5"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Jiangshi R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Banaleaf R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Melon"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Yum R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Dignified R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cutie T-R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

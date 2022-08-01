@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #660",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(660).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R13"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R4"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Ninja R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Rainbow R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Heart R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Almond R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling R4"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

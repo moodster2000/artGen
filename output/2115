@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2115",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2115).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Polo B-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Ninja R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Shrimp R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Oh R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Shade R4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Drooling X-RABW"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Fire"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

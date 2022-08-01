@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6300",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6300).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R10"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Cargo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Bomb R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Eth R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Noodl"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Ananas"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

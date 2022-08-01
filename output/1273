@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1273",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1273).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Kasa-bake R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Cool R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Links R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Vampire R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Lee R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

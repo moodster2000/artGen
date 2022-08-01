@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #915",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(915).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R17"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Racer R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Msg R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Scar R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cutie U"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

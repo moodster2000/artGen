@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #8123",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(8123).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER VeeCut R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Ricesuki R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Meow R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Kendama R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Banana R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Rice R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Baddie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Melon"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

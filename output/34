@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #34",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(34).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Fleece R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Bamboo R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Chung C-R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Console R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Fire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Scopio SILV"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

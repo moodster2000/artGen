@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #77",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(77).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER VeeCut R15"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Jacket R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Pony R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Lufi R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Chill R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Nunchaku R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Sparkle B-R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Chuppy R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

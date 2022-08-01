@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #7557",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(7557).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Fleece R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Beanie R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Bamboo R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Hot R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Rice R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

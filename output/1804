@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1804",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1804).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Godzill R4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket P-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Meow R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Bolang Gu R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Bomb R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Vampire R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Chuppy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

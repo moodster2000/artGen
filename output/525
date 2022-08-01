@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #525",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(525).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Gao R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Kendama R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Onigiri R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Avocado R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Saiya R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Kitty R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

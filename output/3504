@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #3504",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3504).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Ninja"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Maneki R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Tomato R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Oh R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Vampire R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bone R2"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

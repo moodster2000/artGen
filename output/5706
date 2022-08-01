@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #5706",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(5706).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Cargo R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Jiangshi R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Flag R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Spoon R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Heart R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Mask R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

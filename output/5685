@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #5685",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(5685).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET NoCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Jacket R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Sensu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Electro R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Nani"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL EyePatch R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Shark F-R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

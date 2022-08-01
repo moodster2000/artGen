@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #103",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(103).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Lan R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Flamingo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "EXT Meow RABW"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Moon S-R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Lotus GOLD"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Chef GOLD"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Fancy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Drooling X-RABW"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "UMAMI Sakura R1"
+    },
+    {
+      "trait_type": "Fusion"
+    }
+  ]
+}

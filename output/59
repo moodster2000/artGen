@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #59",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(59).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Eva R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Beanie R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Nunchaku R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Boba SILV"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Floor SILV"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL EyePatch R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Pocky R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Flash"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 3"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #414",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(414).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Vest R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Suprice R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Nunchaku R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Blink R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Ricegan H-R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Chuppy R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

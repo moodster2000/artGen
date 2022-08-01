@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1480",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1480).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R19"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Ninja"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Meow R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Gourd R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Chill R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Vampire R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Shark S-R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

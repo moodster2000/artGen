@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #64",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(64).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R9"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Obi R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "EXT Jiangshi RABW"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Gao R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Gg SILV"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Msg SILV"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Norice R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Drooling R5"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 3"
+    }
+  ]
+}

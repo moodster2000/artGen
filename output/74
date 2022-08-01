@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #74",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(74).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Garo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Citrus R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Chilli R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Scar R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

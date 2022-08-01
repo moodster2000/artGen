@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4639",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4639).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket R5"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Noodles R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Tomato R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Rimon R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Droopy R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Fire"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

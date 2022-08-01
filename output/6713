@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6713",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6713).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Square R13"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Cargo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Longbow R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Spoon R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Knife R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Norice R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Piercing R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

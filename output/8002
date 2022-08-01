@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #8002",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(8002).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Obi R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Totoleaf R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Gourd R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Robot R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Naruta R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Dignified R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Sulk"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

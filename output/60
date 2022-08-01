@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #60",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(60).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Quanho"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "EXT Kim RABW"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Nunchaku R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Hot GOLD"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Gourd SILV"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Ninja R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Ninja R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Fire"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 4"
+    }
+  ]
+}

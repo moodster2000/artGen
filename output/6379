@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6379",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6379).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R18"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Scarf R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Suprice R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Gourd R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Baguett"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Yum R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R4"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

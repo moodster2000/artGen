@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1234",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1234).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Drama R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo E-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Plaster R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Starry R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

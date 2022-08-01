@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2666",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2666).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R15"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Polo B-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Foxe R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Tanghulu R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gas R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Msg R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Dignified R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1300",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1300).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Lan R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Jacket R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Suprice R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Lufi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Mic R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Knife R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Dignified R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Piercing R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "UMAMI Sakura R1"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 2"
+    }
+  ]
+}

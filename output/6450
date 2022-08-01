@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6450",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6450).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER VeeCut R5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Cargo R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Mastodon R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Riceball R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Pear R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL SavePNG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Vampire R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Lee R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Lemon"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

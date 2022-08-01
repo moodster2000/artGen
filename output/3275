@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3275",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3275).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Polo A-R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Uchiwa R3"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lotus R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Naruta R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Wink R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

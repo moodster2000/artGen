@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #4375",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(4375).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Vest R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Tiger R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Jianzi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Onigiri R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL SavePNG"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Scar R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Stolid"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

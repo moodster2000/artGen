@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #219",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(219).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Quanho"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Gao R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Nunchaku R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Mint R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Star R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Shade R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

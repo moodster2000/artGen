@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #2601",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2601).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Cargo R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Sycee RABW"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Mic R3"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Fire R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Piercing R2"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

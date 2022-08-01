@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1381",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1381).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Cargo R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Sam R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Kasa-bake R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Nonla R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Boom"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Droopy R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Chilli"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

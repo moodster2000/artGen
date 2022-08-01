@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3216",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3216).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER Electro R4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Fleece R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Ricemoto R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Lipstk R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Sulk"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Sakura R2"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

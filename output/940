@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #940",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(940).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R6"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Uncle R"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Mastodon R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Riceball R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Mic R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Klub R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Hmm R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

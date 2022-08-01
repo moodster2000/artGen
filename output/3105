@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3105",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3105).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Lee R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Saiya R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Ninja R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Woh R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Oh R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Lazer R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Bone R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Fire"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

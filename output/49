@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #49",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(49).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Cowboy"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Mastodon R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Longbow R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Mint R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Chef GOLD"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Bloodshot R5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Bunny R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

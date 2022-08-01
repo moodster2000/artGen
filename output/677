@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #677",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(677).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "BITTER VeeCut R5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Jacket R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Gourd R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Citrus R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Terminator R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Vampire R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "BITTER Lemon"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

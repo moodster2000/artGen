@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1522",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1522).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET ZipUp"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Suprice R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Lufi R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Lolipop R3"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Globe R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Vampire R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Plaster"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

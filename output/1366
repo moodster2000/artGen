@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1366",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1366).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R20"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Juzu R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R3"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Yangchi R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Lipstk R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle G-R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

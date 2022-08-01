@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #2023",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(2023).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R13"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Caro R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Sycee RABW"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lotus R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Donut R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Kitty R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cutie T-R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #938",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(938).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Garo R1"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Tiger R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Nunchaku R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lishi"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "EXT Clover SILV"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Scar R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Kitty R3"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Flash"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

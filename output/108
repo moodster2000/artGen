@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #108",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(108).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Machina R1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "UMAMI Puffer R5"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "EXT Pony RABW"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "EXT Yangchi R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Fried R-R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Irl R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Ricegan F-R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "EXT Gummy R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 6"
+    }
+  ]
+}

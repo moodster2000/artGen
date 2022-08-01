@@ -1,0 +1,45 @@
+{
+  "name": "RiceDay #3575",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3575).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR VeeCut R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Puffer L-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Chef R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Cards R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lishi"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Icepop R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle G-R3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling S-R1"
+    },
+    {
+      "trait_type": "Scent"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

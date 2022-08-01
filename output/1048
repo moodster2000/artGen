@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1048",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1048).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R20"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Puffer L-R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Beanie R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Maneki R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "EXT Gg SILV"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Rice H-R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Tech R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Vampire R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

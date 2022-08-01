@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1510",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1510).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "UMAMI Machina R2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SWEET Trench C-R3"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Pony R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Kendama R1"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Octopus R3"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Blink R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Vampire R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Meh S"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #1544",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(1544).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SWEET Oval R10"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BITTER Toto R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Sensu R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Gm R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Chilli R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SPL Beach R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "SPL Drooling S-R1"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

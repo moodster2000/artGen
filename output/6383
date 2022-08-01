@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #6383",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(6383).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SOUR Sun R7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Dungaree"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "SPL Buffalo R1"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "GRT Cards R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Wow R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Electro R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Sparkle R1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Mole R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "SOUR Flash"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #3485",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(3485).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Oval R20"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SOUR Fleece R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R2"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Kasa-bake R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "GRT Sakura R1"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "SPL Console R2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "GRT Almond R2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Cheeky R2"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 0"
+    }
+  ]
+}

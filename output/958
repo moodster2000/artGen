@@ -1,0 +1,46 @@
+{
+  "name": "RiceDay #958",
+  "image": "https://storage.googleapis.com/updatedimages/images/RiceDay%20(958).jpg",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "SALTY Square R8"
+    },
+    {
+      "trait_type": "Body",
+      "value": "SALTY Scarf R2"
+    },
+    {
+      "trait_type": "HeadAccessory",
+      "value": "GRT Taketa R4"
+    },
+    {
+      "trait_type": "BodyAccessory",
+      "value": "SPL Boba R2"
+    },
+    {
+      "trait_type": "StickerLeft",
+      "value": "SPL Lotus R2"
+    },
+    {
+      "trait_type": "StickerRight",
+      "value": "GRT Lit R1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "EXT Bloodshot R6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "GRT Sulk"
+    },
+    {
+      "trait_type": "Scent",
+      "value": "None"
+    },
+    {
+      "trait_type": "Fusion",
+      "value": "LVL 1"
+    }
+  ]
+}
